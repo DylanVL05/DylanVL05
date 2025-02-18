@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5vd210M3dpMGtzYjdkY3E1ZWpyMzduZXdnMWU5bHk4dWdqeHE2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" align="right"/>
+<img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdkZzllZ2F6aDZuY21sM2w3a2J0M3I2Njd2ZmM1cTFvNmFqOWxveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
