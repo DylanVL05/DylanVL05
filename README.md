@@ -34,7 +34,7 @@ My name is Dylan, and I am a dedicated software developer and Systems Engineerin
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Grafana](https://img.shields.io/badge/-Grafana-5f5f5f?style=flat&logo=grafana&labelColor=ffffff)](#)
 [![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)](#)
-[![Splunk](68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73706c756e6b2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73706c756e6b266c6f676f436f6c6f723d7768697465)](#)
+[![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)](#)
 [![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](#)
 ### ⚙️ &nbsp;GitHub Analytics
 
