@@ -1,9 +1,8 @@
+![Dylan's Banner](https://raw.githubusercontent.com/DylanVL05/DylanVL05/refs/heads/main/BannerDylan.png)
+
 My name is Dylan, and I am a dedicated software developer and Systems Engineering student. I have a deep passion for the field of computer science and a strong desire to stay up to date with the latest technologies. I strive to improve my programming skills every day.
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
-
-
 
 <img alt="Night Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxieDhwemFsaThhM2lxb21lM29xbjc5dWthaDg4aDdqdG5zaHU1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" align="right"/>
 
@@ -45,4 +44,5 @@ My name is Dylan, and I am a dedicated software developer and Systems Engineerin
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DylanVL05&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
 
