@@ -27,6 +27,7 @@ My name is Dylan, and I am a dedicated software developer and Systems Engineerin
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Networks](https://img.shields.io/badge/-Networks-05122A?style=flat&logo=cisco)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
