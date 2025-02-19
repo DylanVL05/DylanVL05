@@ -1,4 +1,4 @@
-
+My name is Dylan, and I am a dedicated software developer and Systems Engineering student. I have a deep passion for the field of computer science and a strong desire to stay up to date with the latest technologies. I strive to improve my programming skills every day.
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
